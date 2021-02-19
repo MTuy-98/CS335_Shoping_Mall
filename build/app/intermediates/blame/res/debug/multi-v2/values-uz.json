@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Aaron Simfukwe\\Documents\\GitHub\\CS335_Shoping_Mall\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+            "outputFile": "C:\\Users\\Gratis Mtuy\\OneDrive\\Documents\\GitHub\\CS335_Shoping_Mall\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Aaron Simfukwe\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\Gratis Mtuy\\.gradle\\caches\\transforms-3\\0af46e38d04798a4f205dbf00a18977f\\transformed\\core-1.1.0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

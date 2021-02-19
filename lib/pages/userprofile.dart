@@ -50,6 +50,12 @@ class _UserProfile extends State<UserProfile> {
             Container(
               height: 50,
               color: Colors.lightBlue[100],
+              child: Text('Phone Number: +255 74545670'),
+              margin: new EdgeInsets.symmetric(vertical: 10),
+            ),
+            Container(
+              height: 50,
+              color: Colors.lightBlue[100],
               child: Text('Account Type: SELLER'),
               margin: new EdgeInsets.symmetric(vertical: 10),
             ),
